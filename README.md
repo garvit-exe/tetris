@@ -53,7 +53,8 @@ To run this project, you need a modern web browser that supports HTML5 and JavaS
 
 ## Screenshots
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot 1](screenshot1.jpg)
+![Game Screenshot 2](screenshot2.jpg)
 
 ## License
 
