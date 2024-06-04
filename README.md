@@ -1,6 +1,6 @@
 # tetris
 
-#### Play the game [here](garvit-exe.github.io/tetris) or [here](tetris-by-garvit.vercel.com).
+#### Play the game [here](garvit-exe.github.io/tetris) or [here](tetris-by-garvit.vercel.app).
 
 ## Getting Started
 
